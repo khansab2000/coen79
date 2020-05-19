@@ -1,0 +1,1 @@
+tenletterword and not a ten letter word. Ifthisworkedrightthiswordshouldbecapital and the rest should not other than tenletterword and thisbigword this_is_a_ten_letter_word_that_shoudn't_have_underscores_or_apostrophes 
